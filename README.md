@@ -19,7 +19,7 @@ Open the workshop.ipynb through mybinder.org and execute the cells one by one:
 
 
 Aletrnatively, try running the notebook in Google Colab:
-[![Open_in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ncsu-geoforall-lab/gis-week-grass-2025/blob/main/workshop.ipynb) 
+[![Open_in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ncsu-geoforall-lab/gis-week-grass-2025/blob/main/colab_workshop.ipynb) 
  
 
 ## License

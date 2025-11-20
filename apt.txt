@@ -33,6 +33,7 @@ netcdf-bin
 p7zip
 proj-bin
 python3-gdal
+gdal-bin
 sqlite3
 unixodbc-dev
 xvfb
